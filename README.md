@@ -38,7 +38,7 @@ einstellen
 - Menü "Sketch" -> "Hochladen" auswählen.
 
 ## Addon installieren
-Um die Geräteunterstützung zu aktivieren, wird die aktuellste Version des [JP-HB-Devices Addon](https://github.com/jp112sdl/JP-HB-Devices-addon/releases/latest) benötigt!
+Um die Geräteunterstützung zu aktivieren, wird die aktuellste Version (mind. V 1.14) des [JP-HB-Devices Addon](https://github.com/jp112sdl/JP-HB-Devices-addon/releases/latest) benötigt!
 
 ## Gerät anlernen
 Wenn alles korrekt verkabelt und das Addons installiert ist, kann das Gerät angelernt werden.<br>
