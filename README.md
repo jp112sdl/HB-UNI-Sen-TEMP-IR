@@ -1,5 +1,5 @@
 # HB-UNI-Sen-TEMP-IR
-## Funk "MLX90614 Universal-Temperatursensor" für die Integration in HomeMatic
+## Funk "MLX90614 Universal Infrarot Temperatursensor" für die Integration in HomeMatic
 
 **Der Source-Code setzt mind. [Addon Version V1.14](https://github.com/jp112sdl/JP-HB-Devices-addon) oder höher voraus!**
  
