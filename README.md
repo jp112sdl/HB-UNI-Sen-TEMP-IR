@@ -49,6 +49,11 @@ Die LED leuchtet für einen Moment.<br>
 Anschließend ist das Gerät im Posteingang zu finden.<br>
 Dort auf "Fertig" geklickt, wird es nun in der Geräteübersicht aufgeführt.<br>
 
-## CCU-Ansicht:
+## CCU-Ansicht
+Das Gerät verhält sich wie ein Temperaturdifferenzsensor.
+Der MLX90614 liefert 2 Temperaturwerte.
+  - Temperatur 1 = Ambiente Temperature (Umgebungstemperatur)
+  - Temperatur 2 = Object Temperature (Objekttemperatur)
+  
 ![ccu_dev](Images/CCU_Geraete.png)
 ![ccu_bed](Images/CCU_Bedienung.png)
