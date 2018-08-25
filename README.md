@@ -50,8 +50,7 @@ Anschließend ist das Gerät im Posteingang zu finden.<br>
 Dort auf "Fertig" geklickt, wird es nun in der Geräteübersicht aufgeführt.<br>
 
 ## CCU-Ansicht
-Das Gerät verhält sich wie ein Temperaturdifferenzsensor.
-Der MLX90614 liefert 2 Temperaturwerte.
+Das Gerät verhält sich wie ein Temperaturdifferenzsensor, denn der MLX90614 liefert 2 Temperaturwerte.
   - Temperatur 1 = Ambiente Temperature (Umgebungstemperatur)
   - Temperatur 2 = Object Temperature (Objekttemperatur)
   
